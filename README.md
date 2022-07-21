@@ -15,7 +15,7 @@
                              const promise = async() => {
                                try {
                                  let files = await fn( data )  
-                               } catch( error ) { console.log( error ) }
+                               } catch( error ) { error }
                              }
                           ]
 }
