@@ -3,7 +3,8 @@
 ### Graphic Designer, doing a Boot Camp on Backend Development with NodeJS. Creative code fascination.
 
 ```
-{ some_codes_that_like_me: [ const x += 1,
+{ some_codes_that_like_me: [ i ++,
+                             const x += 1,
                              const y = x ++,
                              const y = ++ x,
                              const y = x ** 2,
