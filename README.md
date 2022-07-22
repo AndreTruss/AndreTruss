@@ -14,7 +14,7 @@
                        console.log( ( ( x, y ) => `Sum is ${ x + y }` ) ( 1, 2 ) ),
                        const RANDOM_NUMBER = () => Math.floor( Math.random() * 100 ) + 1,
                        const addZero = ( value ) => ( value < 10 ) ? `0${ value }` : `${ value }`,
-                       const promise = async( data ) => { try { let files = await fn( data ) } catch( error ) { error } }
+                       const promise = async( data ) => { try { let file = await fn( data ) } catch( err ) { err } }
                     ]
 }
 ```
