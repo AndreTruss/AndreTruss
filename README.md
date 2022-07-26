@@ -1,6 +1,6 @@
 # Hi, I'm Andrea :bike: 
 
-### Graphic Designer - Learning Backend Development with NodeJS
+## Graphic Designer - Learning Backend Development with NodeJS
 
 ``` Javascript
 { some_codes_I_like: [ i ++,
