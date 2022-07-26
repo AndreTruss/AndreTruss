@@ -18,7 +18,7 @@
                        const RANDOM_NUMBER = () => Math.floor( Math.random() * 100 ) + 1,
                        const addZero = ( number ) => ( number < 10 ) ? `0${ number }` : `${ number }`,
                        const promise = async( data ) => { 
-                          try { let file = await fn( data ) } 
+                          try { const file = await fn( data ) } 
                           catch( err ) { err } 
                           }
                     ]
