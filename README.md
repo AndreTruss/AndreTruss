@@ -1,6 +1,6 @@
 ## Hi, I'm Andrea :bike: 
 
-### Graphic Designer, doing a Boot Camp on Backend Development with NodeJS. Creative code fascination.
+### Graphic Designer, learning Backend Development with NodeJS. Creative code fascination.
 
 ``` Javascript
 { some_codes_I_like: [ i ++,
