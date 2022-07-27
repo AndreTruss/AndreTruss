@@ -1,4 +1,4 @@
-# Hi, I'm Andrea  :bike: 
+# Hi, I'm Andrea :bike: 
 
 ## Graphic Designer - Learning Backend Development with NodeJS
 
