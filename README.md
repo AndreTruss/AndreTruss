@@ -20,9 +20,9 @@
                        const promise = async( data ) => { 
                                                           try { 
                                                                 const file = await fn( data ) 
-                                                              } catch( err ) { 
-                                                                              console.error( err ) 
-                                                                             } 
+                                                              } catch( error ) { 
+                                                                                console.error( error ); 
+                                                                               } 
                                                         }
                     ]
 }
